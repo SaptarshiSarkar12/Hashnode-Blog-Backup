@@ -1,4 +1,4 @@
-## Computer Networking In Full Details
+# Computer Networking In Full Details
 
 <h1 align='center'>Computer Networking</h1>
 
