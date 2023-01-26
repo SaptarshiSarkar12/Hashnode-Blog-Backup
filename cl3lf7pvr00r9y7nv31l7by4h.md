@@ -1,4 +1,4 @@
-## How to Improve Logic Building Skills in Programming
+# How to Improve Logic Building Skills in Programming
 
 # Have you ever experienced the incapability to solve a problem in programming, even after practicing a lot?
 Then this **6 tips** will help you to overcome this problem. It has helped me too, and I hope it will be of any use to you.
