@@ -317,13 +317,13 @@ public class Drifty_CLI {
 }
 ```
 
-We have used the Scanner class to take input from the user, the URL class to convert the link from String to an URL 🔗, IOException class to handle IO Exceptions, and Objects class for command line arguments' handling. Some ANSI Colour Codes are also used to make the Application visually more appealing. Appropriate inputs and their validations are performed. Also, a help command is kept for more information on the Application.
+We have used the Scanner class to take input from the user, the URL class to convert the link from String to an URL 🔗, IOException class to handle IO Exceptions and the Objects class for handling command line arguments. Some ANSI Colour Codes are also used to make the Application visually more appealing. Appropriate inputs and their validations are performed. Also, a help command is kept for more information on the Application.
 
 ### 3\. Creating the program to Download ⬇️ the file 📄
 
-Now, we shall look into the core part of the whole project which is the downloading part --- How to download the file? How to save it? Create a FileDownloader.java class and copy the below code to that class.
+Now, we shall look into the core part of the whole project which is the downloading part --- **How to download the file?** **How to save it?** Create a *FileDownloader.java* class and copy the below code to that class.
 
-```plaintext
+```java
 import java.io.*;
 import java.net.*;
 import java.nio.channels.Channels;
@@ -630,7 +630,7 @@ class FileDownloader implements Runnable {
 }
 ```
 
-```plaintext
+```java
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.URL;
@@ -668,13 +668,13 @@ public class DownloaderThread extends Thread{
 }
 ```
 
-Here, we have used the io package to handle the input and output, Channels and ReadableByteChannel to get a network channel through which the bytes of data can be received, ArrayList to store the temporary files 📄, size of the part of the file to be downloaded and the download ⬇️ threads. This class is a thread and multithreaded downloading mechanism is implemented which makes downloading faster 🚀🚀!!
+Here, we have used the io package to handle the input and output, Channels and ReadableByteChannel to get a network channel through which the bytes of data can be received, ArrayList to store the temporary files 📄, size of the part of the file to be downloaded and the download ⬇️ threads. This class is a thread and a multithreaded downloading mechanism is implemented which makes downloading faster 🚀🚀!!
 
 ### 4\. Adding a Progress Bar
 
-The main part of the project has been completed, now, we shall look into introducing a progress bar to indicate how much has been downloaded and how much is left. Create ProgressBarThread.java class and copy the below code.
+The main part of the project has been completed, now, we shall look into introducing a *progress bar* to indicate how much has been downloaded and how much is left. Create **ProgressBarThread.java** class and copy the below code.
 
-```plaintext
+```java
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -865,13 +865,13 @@ public class ProgressBarThread extends Thread {
 }
 ```
 
-We have made this class as a thread. The **generateProgressBar** method generates a string corresponding to the download ⬇️ progress and it is then printed in the console.
+We have made this class a **thread**. The **generateProgressBar** method generates a string corresponding to the download ⬇️ progress and it is then printed in the console.
 
 ### 5\. Some other features 💡💡
 
 Here is the source code of some other features that you may include to make the application more feature intensive.
 
-```plaintext
+```java
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.FileSystems;
@@ -918,7 +918,7 @@ class CheckDirectory {
 
 The above code tries to validate if the custom download directory 📂 exists or not. If it does not exist, the new directory 📂 will be created. Exceptions are handled 🛠️ and appropriate messages 🗯️ are shown.
 
-```plaintext
+```java
 import java.io.*;
 
 /**
@@ -982,7 +982,7 @@ class DefaultDownloadFolderLocationFinder {
 
 The above code tries to detect the default downloads folder 📂. If it fails to detect, then the main program made in 2nd step is going to take the custom download folder 📂 as input.
 
-```plaintext
+```java
 import java.io.*;
 import java.nio.file.FileSystems;
 import java.nio.file.Path;
@@ -1041,9 +1041,9 @@ public class CreateLogs {
 }
 ```
 
-The above code is used to store Logs 📃 of the Application in a file 📁 (Here, I have kept the name as Drifty\_CLI\_LOG.log). You may keep any other name also.
+The above code is used to store Logs 📃 of the Application in a file 📁 (Here, I have kept the name **Drifty\_CLI\_LOG.log**). You may keep any other name also.
 
-```plaintext
+```java
 import java.io.FileOutputStream;
 import java.io.File;
 import java.io.IOException;
@@ -1072,7 +1072,7 @@ public class copyYt_dlp {
 }
 ```
 
-The above code is helpful when the whole project is converted and used as a Jar file🫙. The code basically moves the yt\_dlp.exe program responsible for downloading ⬇️ a YouTube video 🎥 to a temporary directory, thus, preventing the application from crashing💥. You need to download [yt\_dlp program](https://github.com/yt-dlp/yt-dlp) for your OS to download YouTube videos using this Application we just made.
+The above code is helpful when the whole project is converted and used as a Jar file🫙. The code moves the **yt\_dlp.exe** program responsible for downloading ⬇️ a YouTube video 🎥 to a temporary directory, thus, preventing the application from crashing💥. You need to download the **yt\_dlp** application for your OS to download YouTube videos using this Application we just made.
 
 ### And We are done!! 🚀🚀 Our Application is running!!
 
