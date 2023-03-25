@@ -6,6 +6,7 @@ datePublished: Sat Mar 25 2023 17:40:09 GMT+0000 (Coordinated Universal Time)
 cuid: clfo9b80n00000amm0jiy7ku4
 slug: debugging-my-experience
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/m_HRfLhgABo/upload/efc282e50e2acfe4dd1900b42c467598.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679766210904/60d34b8d-e772-4081-ad19-4f29731c167c.webp
 tags: java, debugging, javafx, experience, wemakedevs
 
 ---
