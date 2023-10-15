@@ -6,6 +6,7 @@ datePublished: Sun Oct 15 2023 11:58:45 GMT+0000 (Coordinated Universal Time)
 cuid: clnrexyvq000g09lecukeb5s7
 slug: build-native-images-for-a-java-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697293441660/42e16961-8672-4015-9526-6fb8ba1a9738.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697373469510/78a18063-fbc5-4462-a11a-82a9ed90ca1e.png
 tags: java, graalvm, wemakedevs
 
 ---
