@@ -99,7 +99,7 @@ This command does two things :
 
 * Deletes the previously created `target` directory (if it exists)
     
-* Runs the `package` goal of the Maven lifecycle which includes the `package` goal of GraalVM build plugin  
+* Runs the `package` goal of the Maven lifecycle which includes the `package` goal of GraalVM build plugin
     
 
 The output of the above command is 👇
@@ -128,7 +128,7 @@ So, that is how you can build native images for any **Java project.** GraalVM al
     
 * [Give a star ⭐ to the GraalVM Open-Source project](https://github.com/oracle/graal)
     
-* [Give a star ⭐ to Drifty - An Open-Source Interactive File Downloader System which uses GraalVM and GluonFX](https://github.com/SaptarshiSarkar12/Drifty)
+* [Give a star ⭐ to Drifty - An Open-Source Interactive File Downloader System that uses GraalVM and GluonFX](https://github.com/SaptarshiSarkar12/Drifty)
     
 
 ### [Connect with me](https://bio.link/saptarshi)
