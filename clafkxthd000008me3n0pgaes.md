@@ -1,4 +1,14 @@
-# How to build a File Downloader System
+---
+title: "How to build a File Downloader System"
+seoTitle: "A File Downloader System made using Java"
+seoDescription: "Here, I have discussed how to build a file downloader application using java."
+datePublished: Sun Nov 13 2022 16:37:12 GMT+0000 (Coordinated Universal Time)
+cuid: clafkxthd000008me3n0pgaes
+slug: how-to-build-a-file-downloader-system
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/f77Bh3inUpE/upload/v1668352921451/5M9x6Y90nd.jpeg
+tags: tutorial, java, downloader, wemakedevs
+
+---
 
 # What is a File Downloader⬇️ System?
 
