@@ -1,4 +1,14 @@
-# Best Developer Tools For Increasing Productivity
+---
+title: "Best Developer Tools For Increasing Productivity"
+seoTitle: "Best Developer Tools For Productivity"
+seoDescription: "Here are the 5 best developer tools for increasing productivity."
+datePublished: Sun May 29 2022 03:19:06 GMT+0000 (Coordinated Universal Time)
+cuid: cl3qqgd0n05e1apnv34l0hi9k
+slug: best-developer-tools-for-increasing-productivity
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653729541402/UhGvWJ6zH.jpg
+tags: productivity, json, markdown, developer-tools, vscode-extensions
+
+---
 
 # Tired of writing tedious code all the time?
 Here are 5 best tools to increase your productivity while programming.
