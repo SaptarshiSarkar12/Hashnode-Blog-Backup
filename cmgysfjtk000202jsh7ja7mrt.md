@@ -11,7 +11,11 @@ tags: data-visualization, data-cleaning, data-wrangling, openrefine, handsonlear
 
 ---
 
-Real-world data is messy. It has inconsistent spellings, stray characters, and mixed number formats, which can cause problems even with simple analysis. In this post, I will guide you through a practical, beginner-friendly OpenRefine workflow (based on an example from the **Hands-On Data Visualization** book) to clean a small but intentionally messy sample dataset. By the end, you'll be able to convert noisy numeric fields into proper numbers, cluster and standardize text values, and export a tidy CSV ready for visualization.
+Real-world data is often messy, with inconsistent spellings, stray characters, and mixed number formats that can complicate even simple analyses. In this post, I will guide you through a practical, beginner-friendly OpenRefine workflow, inspired by an example from the **Hands-On Data Visualization** book, to clean a small but intentionally messy sample dataset. By the end, you'll be able to transform noisy numeric fields into proper numbers, cluster and standardize text values, and export a tidy CSV ready for visualization.
+
+## TL;DR
+
+This article provides a beginner-friendly guide to using OpenRefine for data cleanup. It covers importing and parsing data, cleaning numeric and text columns, and exporting a tidy dataset. The process includes using facets, transformations, and clustering to standardize and correct data inconsistencies, making it ready for analysis and visualization. The guide is inspired by the "Hands-On Data Visualization" book and includes practical steps and screenshots for clarity.
 
 ## Prerequisites
 
