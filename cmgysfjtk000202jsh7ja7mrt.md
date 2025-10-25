@@ -7,7 +7,7 @@ cuid: cmgysfjtk000202jsh7ja7mrt
 slug: mastering-data-cleanup-unleash-the-power-of-openrefine
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760942022801/1f1fe6a7-fb55-457c-8cb2-54119d32954b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1760942218982/3c2ac33f-0f9f-4798-be63-3bff816a45a9.png
-tags: data-visualization, data-cleaning, data-wrangling, openrefine, handsonlearning, grel
+tags: data-science, data-visualization, data-cleaning, data-wrangling, openrefine, handsonlearning, grel
 
 ---
 
