@@ -215,7 +215,7 @@ I tried setting the radius value to `3.0` and found some correct clusters that I
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760937627040/78415736-2513-47ab-9ea8-8513d38d463d.png align="center")
 
-## Step 4: Quick sanity checks & facets
+### Step 4: Quick sanity checks & facets
 
 To verify whether the complete dataset has been cleaned, we can use the following facets:
 
