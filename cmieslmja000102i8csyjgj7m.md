@@ -67,6 +67,10 @@ Therefore, time complexity is **O(N²)** as constants are cancelled, and less do
 
 In both the **worst case** and the **best case**, the time complexity is **O(N²)** as even in the best case, comparisons are made to find the smallest (or the largest) element every time.
 
+## Space Complexity
+
+The space complexity of selection sort algorithm is **O(1)** as no extra space is taken.
+
 ## Stability
 
 The **Selection Sort** is not a stable sorting algorithm as it does not maintain the original order of the **equal elements** (or duplicate elements) in the final sorted array as it was present in the original array.
