@@ -104,7 +104,7 @@ The worst case occurs when the array is sorted in the reverse order. Let’s try
 
 So, the total number of comparisons made is:
 
-$$\sum_{i=1}^{N-1} i = \frac {N*(N-1)}{2} \\ = \frac {N^2 - N)}{2}$$
+$$\sum_{i=1}^{N-1} i = \frac {N*(N-1)}{2} \\ = \frac {N^2 - N}{2}$$
 
 Hence, the time complexity is **O(N²)** as constants are cancelled, and less dominating terms are removed.
 
