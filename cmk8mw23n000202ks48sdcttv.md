@@ -2,7 +2,7 @@
 title: "Cyclic Sort Made Simple: Learn the Basics and How It Works"
 seoTitle: "Cyclic Sort Basics Explained"
 seoDescription: "Learn how the cyclic sort algorithm works to efficiently sort arrays in place with O(n) time complexity"
-datePublished: Sat Jan 10 2026 18:23:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-10T18:23:53.507Z
 cuid: cmk8mw23n000202ks48sdcttv
 slug: cyclic-sort-made-simple
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768069200353/0262d6b0-aeda-402f-a744-9fc6ffec8aa6.png
