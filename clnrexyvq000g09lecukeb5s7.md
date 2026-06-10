@@ -2,7 +2,7 @@
 title: "Build Native Images for a Java Application"
 seoTitle: "Native Image for a Java Project"
 seoDescription: "Learn how to build native images for a Java Project from simple Hello World program to complex projects."
-datePublished: Sun Oct 15 2023 11:58:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-15T11:58:45.975Z
 cuid: clnrexyvq000g09lecukeb5s7
 slug: build-native-images-for-a-java-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697293441660/42e16961-8672-4015-9526-6fb8ba1a9738.png
