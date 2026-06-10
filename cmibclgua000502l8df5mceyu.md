@@ -2,7 +2,7 @@
 title: "A Beginner's Guide to Bubble Sort Algorithm"
 seoTitle: "Bubble Sort Algorithm: A Beginner's Guide"
 seoDescription: "Learn bubble sort, a simple algorithm for sorting elements by comparing and swapping adjacent items until the list is ordered"
-datePublished: Sun Nov 23 2025 06:39:37 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-23T06:39:37.090Z
 cuid: cmibclgua000502l8df5mceyu
 slug: a-beginners-guide-to-bubble-sort-algorithm
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763879814667/f80a0762-3f5e-4c52-b921-ec474b042243.png
