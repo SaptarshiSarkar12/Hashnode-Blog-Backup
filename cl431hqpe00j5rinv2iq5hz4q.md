@@ -2,7 +2,7 @@
 title: "Computer Networking In Full Details"
 seoTitle: "Computer Networking In Full Details"
 seoDescription: "Here, I have made a documentation of the whole computer networking."
-datePublished: Mon Jun 06 2022 18:01:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-06-06T18:01:20.938Z
 cuid: cl431hqpe00j5rinv2iq5hz4q
 slug: computer-networking-in-full-details
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/40XgDxBfYXM/upload/v1654537280626/E0oOYGse8.jpeg
