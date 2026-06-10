@@ -2,7 +2,7 @@
 title: "How to Improve Logic Building Skills in Programming"
 seoTitle: "How to Improve Logic Building Skills in Programming?"
 seoDescription: "Here, I have discussed 6 tips which will certainly help you in improving your logic building skills in programming."
-datePublished: Wed May 25 2022 10:05:37 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-05-25T10:05:37.082Z
 cuid: cl3lf7pvr00r9y7nv31l7by4h
 slug: improve-logic-building-skills-in-programming
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/yVxUC9I9Cik/upload/v1653388930440/aqol87LS7.jpeg
