@@ -40,8 +40,8 @@ The root cause is the shared weight space. Gradient descent is a stateless optim
 
 ## Why "Catastrophic"?
 
-Human memory forgets **gradually** and **selectively**; you forget **less-used memories** slowly over time, and the forgetting is usually **partial**. Neural networks, by contrast, forget catastrophically — performance can collapse within just a few epochs, dropping from near‑perfect accuracy (e.g., 99%) to far lower levels (e.g., 34%) in a single training run. This forgetting is non‑selective: the entire task distribution degrades, not just edge cases.  
-  
+Human memory forgets **gradually** and **selectively**; you forget **less-used memories** slowly over time, and the forgetting is usually **partial**. Neural networks, by contrast, forget catastrophically — performance can collapse within just a few epochs, dropping from near‑perfect accuracy (e.g., 99%) to far lower levels (e.g., 34%) in a single training run. This forgetting is non‑selective: the entire task distribution degrades, not just edge cases.
+
 The underlying tension is the **stability–plasticity dilemma**. High plasticity allows fast learning of new tasks but destabilizes old ones, leading to catastrophic forgetting. Low plasticity preserves prior knowledge but prevents effective learning of new tasks. Continual learning research seeks to balance this trade‑off.
 
 ## How Do We Measure It?
@@ -75,7 +75,8 @@ The first instinct is obvious: why not just keep all the data and retrain the mo
 
 This is why continual learning exists as a distinct field: to make adaptation possible under these constraints. The open question is the one that drives the research forward: ***can we teach a network to learn new things without forgetting old ones, the way humans do?***
 
-**Try it yourself**  
+## Try it yourself
+
 Curious to see catastrophic forgetting in action?
 
 *   See [the demo on Colab](https://colab.research.google.com/github/SaptarshiSarkar12/continual-learning/blob/main/catastrophic_forgetting/notebook.ipynb)
