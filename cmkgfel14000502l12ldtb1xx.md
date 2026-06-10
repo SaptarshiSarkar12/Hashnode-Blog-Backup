@@ -2,7 +2,7 @@
 title: "What is Recursion? A Comprehensive Overview"
 seoTitle: "Understanding Recursion: A Complete Guide"
 seoDescription: "Master recursion: Fibonacci numbers, binary search, base conditions, recurrence relations, and complexity insights"
-datePublished: Fri Jan 16 2026 05:16:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-16T05:16:30.328Z
 cuid: cmkgfel14000502l12ldtb1xx
 slug: what-is-recursion-a-comprehensive-overview
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768540536899/a41b5590-3871-401c-8c69-a3bdc4e73836.png
