@@ -2,7 +2,7 @@
 title: "How Insertion Sort Works: Simplified Explanation"
 seoTitle: "Simplified Guide to Insertion Sort"
 seoDescription: "Learn how insertion sort works, its time complexity, and why it's ideal for small datasets and nearly sorted arrays"
-datePublished: Sat Nov 29 2025 06:55:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-29T06:55:41.938Z
 cuid: cmijxt9bl000002js9mz59e7w
 slug: how-insertion-sort-works-simplified-explanation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764399290698/82f20f44-2cf6-4e70-8b8a-740667072c64.png
