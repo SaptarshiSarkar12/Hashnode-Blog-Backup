@@ -2,7 +2,7 @@
 title: "Best Developer Tools For Increasing Productivity"
 seoTitle: "Best Developer Tools For Productivity"
 seoDescription: "Here are the 5 best developer tools for increasing productivity."
-datePublished: Sun May 29 2022 03:19:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-05-29T03:19:06.955Z
 cuid: cl3qqgd0n05e1apnv34l0hi9k
 slug: best-developer-tools-for-increasing-productivity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653729541402/UhGvWJ6zH.jpg
