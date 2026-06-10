@@ -2,7 +2,7 @@
 title: "Mastering Linear Search: Learn the Essentials of This Core Algorithm"
 seoTitle: "Unlocking the Basics: A Comprehensive Guide to Linear Search Algorithm"
 seoDescription: "Master the basics of Linear Search with this guide covering its implementation, time, and space complexity for efficient algorithm understanding"
-datePublished: Sun Aug 03 2025 18:06:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-03T18:06:02.605Z
 cuid: cmdvzst4d000b02le6o1jhfdj
 slug: mastering-linear-search
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754204891987/50de7e69-ee30-4007-9f5e-47a6401cf438.png
