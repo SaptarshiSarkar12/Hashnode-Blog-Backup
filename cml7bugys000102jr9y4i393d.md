@@ -2,7 +2,7 @@
 title: "Demystifying Time and Space Complexity for Beginners"
 seoTitle: "Understanding Time and Space Complexity"
 seoDescription: "Learn the basics of time and space complexity analysis for efficient algorithm comparison, including Big O, Big Theta, and Big Omega notations"
-datePublished: Wed Feb 04 2026 01:06:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-04T01:06:39.844Z
 cuid: cml7bugys000102jr9y4i393d
 slug: demystifying-time-and-space-complexity-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770167140160/14c4e861-8029-4ead-8528-53e7bfa33982.png
