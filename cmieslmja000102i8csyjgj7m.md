@@ -2,7 +2,7 @@
 title: "Mastering Selection Sort: A Simple Explanation"
 seoTitle: "Selection Sort Simplified: Easy Guide"
 seoDescription: "Learn the fundamentals of Selection Sort, a simple algorithm to sort arrays by finding and placing smallest or largest elements iteratively"
-datePublished: Tue Nov 25 2025 16:30:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-25T16:30:56.854Z
 cuid: cmieslmja000102i8csyjgj7m
 slug: mastering-selection-sort
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764087887154/4b413ad9-47c6-4a69-9012-44ef0ccb5996.png
