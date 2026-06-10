@@ -2,7 +2,7 @@
 title: "Mastering Data Cleanup: Unleash the Power of OpenRefine"
 seoTitle: "OpenRefine: Master Data Cleanup Easily"
 seoDescription: "Learn to clean messy data using OpenRefine. Transform, standardize, and export tidy datasets ready for visualization with this practical guide"
-datePublished: Mon Oct 20 2025 07:02:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-20T07:02:12.248Z
 cuid: cmgysfjtk000202jsh7ja7mrt
 slug: mastering-data-cleanup-unleash-the-power-of-openrefine
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760942022801/1f1fe6a7-fb55-457c-8cb2-54119d32954b.png
