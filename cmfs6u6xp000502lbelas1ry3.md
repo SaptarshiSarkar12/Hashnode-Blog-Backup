@@ -2,7 +2,7 @@
 title: "Everything You Need to Know About Binary Search"
 seoTitle: "Binary Search Explained: A Comprehensive Guide"
 seoDescription: "Learn binary search algorithm with this comprehensive guide on its principles, applications, and how it compares to other search methods"
-datePublished: Sat Sep 20 2025 11:31:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-09-20T11:31:24.445Z
 cuid: cmfs6u6xp000502lbelas1ry3
 slug: everything-you-need-to-know-about-binary-search
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758367075000/a1d1a5c4-64e5-4a2e-b17a-744c82901b2b.png
