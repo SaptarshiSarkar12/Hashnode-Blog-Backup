@@ -2,7 +2,7 @@
 title: "Debugging : My Experience"
 seoTitle: "Debugging: My Experience and Recommendations"
 seoDescription: "Here is my experience of the troublesome task of debugging code, finding issues, solving them and my recommendations."
-datePublished: Sat Mar 25 2023 17:40:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-03-25T17:40:09.431Z
 cuid: clfo9b80n00000amm0jiy7ku4
 slug: debugging-my-experience
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/m_HRfLhgABo/upload/efc282e50e2acfe4dd1900b42c467598.jpeg
